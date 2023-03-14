@@ -1,0 +1,11 @@
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\bin\Debug\MathAlgo.exe.config
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\bin\Debug\MathAlgo.exe
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\bin\Debug\MathAlgo.pdb
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.csproj.AssemblyReference.cache
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.Form1.resources
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.Properties.Resources.resources
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.csproj.GenerateResource.cache
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.csproj.CoreCompileInputs.cache
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.exe
+C:\Users\leivl\source\repos\ATM\MathAlgo\MathAlgo\obj\Debug\MathAlgo.pdb
